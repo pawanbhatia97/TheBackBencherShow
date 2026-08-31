@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pawanbhatia97.github.io/TheBackBencherShow/sitemap.xml

@@ -1,0 +1,1 @@
+Open index.html. Real poster and all four comic photos are included. BookMyShow, Instagram and Maps links are wired.
